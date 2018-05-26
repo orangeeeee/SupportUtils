@@ -3,7 +3,10 @@ package utils;
 import java.math.BigDecimal;
 import java.util.function.Function;
 
-public class Support {
+public final class Support {
+
+    private Support() {
+    }
 
     public static Integer ofInt(String s) {
         return Integer.valueOf(s);
