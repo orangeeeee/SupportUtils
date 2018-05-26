@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/support-util.iml" filepath="$PROJECT_DIR$/.idea/modules/support-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/support-util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/support-util_main.iml" group="support-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/support-util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/support-util_test.iml" group="support-util" />
+    </modules>
+  </component>
+</project>
