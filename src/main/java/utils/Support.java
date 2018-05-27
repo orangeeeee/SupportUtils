@@ -8,6 +8,7 @@ public final class Support {
     private Support() {
     }
 
+
     public static Integer ofInt(String s) {
 
         return Integer.valueOf(s);
@@ -22,9 +23,9 @@ public final class Support {
         return BigDecimal.valueOf(l);
     }
 
-    public static void decimal(double d) {
+    public static BigDecimal decimal(double d) {
 
-        BigDecimal.valueOf(d);
+        return BigDecimal.valueOf(d);
     }
 
     public static Function<String, BigDecimal> decimal() {
