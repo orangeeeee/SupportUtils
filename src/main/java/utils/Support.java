@@ -9,6 +9,7 @@ public final class Support {
     }
 
     public static Integer ofInt(String s) {
+
         return Integer.valueOf(s);
     }
 
